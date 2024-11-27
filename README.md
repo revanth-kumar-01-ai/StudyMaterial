@@ -21,3 +21,9 @@ Studying NumPy, Pandas, SciPy, and Scikit-learn is essential because these Pytho
 
 ### Numpy 
    NumPy is a Python library for efficient numerical computations. It provides support for multidimensional arrays, matrices, and mathematical operations.
+### Pandas 
+  A Python library for data manipulation and analysis, offering data structures like Series and DataFrames.
+### Matplotlib
+  A Python library for creating static, interactive, and animated visualizations.
+### Seaborn
+  A Python library built on Matplotlib for creating visually appealing and statistically informed plots.
