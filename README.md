@@ -4,8 +4,17 @@
 
 
 # Data analysis Study Material
+
+### Python toolboxes/libraries
 - Numpy
-- pandas 
+- pandas
+- SciPy
+- Scikit-learn
+
+### visualization tools
+- matplotlib
+- seaborn
+
 
   
 Studying NumPy, Pandas, SciPy, and Scikit-learn is essential because these Python libraries are fundamental for data analysis and machine learning. They provide tools for efficient numerical computations, data manipulation, statistical analysis, and predictive model building.
